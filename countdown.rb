@@ -1,5 +1,7 @@
 #write your code here
 
 def countdown(x)
-  whilt
+  whil
 end 
+
+def countdown_with_sleep
